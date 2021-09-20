@@ -19,6 +19,6 @@ It uses Content-Based filtering approach to determine movie recommendations base
 ### Install and Run on your Machine:
 - Clone this repository or download the zip file.
 - Install the requirements using: pip install -r requirements.txt
-- To start the app on the developement server move to the respective directory, run the command: python main.py
+- To start the app on the localhost move to the respective directory, run the command: python main.py
 
 If you want to remake the ML model, you can use the already preprocessed data enclosed in this github-repo as main_data.csv .
