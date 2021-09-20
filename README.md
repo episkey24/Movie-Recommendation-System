@@ -1,4 +1,4 @@
-## Movie-Recommendation-System
+## Movie Recommendation System
 UCS757 - Building Innovative Systems. <br />
 Project - 1 <br />
 [Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/) 
