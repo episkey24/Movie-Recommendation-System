@@ -1,14 +1,14 @@
 ## Movie-Recommendation-System
 UCS757 - Building Innovative Systems. <br />
 Project - 1 <br />
-[Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/)
+[Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/) <br />
 (Sample Data already enclosed in this github-repo)
 ### Overview
 This Movie Recommendation System is created using Flask web framework and deployed on Heroku. 
 It uses Content-Based filtering approach to determine movie recommendations based on user search.
 ### Screenshots
-![Home Page](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png)
-![Details](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(74).png)
+![Home Page](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png) <br />
+![Details](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(74).png) <br />
 ![Recommendations](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(77).png)
 ### Tech Stack
 - [React.js](https://github.com/facebook/react) is used for Frontend.
