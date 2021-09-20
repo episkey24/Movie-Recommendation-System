@@ -15,3 +15,9 @@ It uses Content-Based filtering approach to determine movie recommendations base
 - [Flask](https://github.com/pallets/flask) is used in the backend. The API endpoint for getting the recommmendations is setup with cross-site-origin access.
 - [Scikit Learn Count-Vectorizer](https://github.com/scikit-learn/scikit-learn) Scikit-Learn's CountVectorizer is used for preperation of the Recomendeer system. The Cosine similarity parameter is used for finding the closest neigbhours. The top 10 movies with closest similarity score are selected.
 - [Heroku](https://github.com/heroku/heroku-buildpack-python) The application is deployed live on Heroku, using gunicorn static-file web server.
+### Install and Run on your Machine:
+- Clone this repository or download the zip file.
+- Install the requirements using: pip install -r requirements.txt
+- flask run # to run the project on localhost
+
+If you want to remake the ML model, use the data enclosed in this github-repo.
