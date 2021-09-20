@@ -1,6 +1,6 @@
 ## Movie-Recommendation-System
-UCS757 - Building Innovative Systems
-Project - 1
+UCS757 - Building Innovative Systems. <br />
+Project - 1 <br />
 #### -[Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/)
 ### Overview
 This Movie Recommendation System is created using Flask web framework and deployed on Heroku. 
