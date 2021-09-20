@@ -7,7 +7,7 @@ Project - 1 <br />
 This Movie Recommendation System is created using Flask web framework and deployed on Heroku. 
 It uses Content-Based filtering approach to determine movie recommendations based on user search.
 ### Screenshots
-!(https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png)
+![Home Page](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png)
 ### Tech Stack
 - [React.js](https://github.com/facebook/react) is used for Frontend.
 - [Flask](https://github.com/pallets/flask) is used in the backend. The API endpoint for getting the recommmendations is setup with cross-site-origin access.
