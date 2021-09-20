@@ -9,6 +9,7 @@ It uses Content-Based filtering approach to determine movie recommendations base
 ### Screenshots
 ![Home Page](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png) <br />
 ![Details](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(74).png) <br />
+![Reviews](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(76).png) <br />
 ![Recommendations](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(77).png)
 ### Tech Stack
 - [React.js](https://github.com/facebook/react) is used for Frontend.
