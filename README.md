@@ -7,7 +7,7 @@ This Movie Recommendation System uses Content-Based filtering approach to determ
 It is created using Flask web framework and is deployed on Heroku. <br />
 (Preprocessed data enclosed in this github-repo as main_data.csv)
 ### Methodology
-
+![Flowchart](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(79).png)
 ### Screenshots
 ![Home Page](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(73).png) <br />
 ![Details](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(74).png) <br />
