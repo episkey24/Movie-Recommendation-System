@@ -3,7 +3,7 @@ UCS757 - Building Innovative Systems. <br />
 Project - 1 <br />
 [Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/) 
 ### Overview
-This Movie Recommendation System uses Content-Based filtering approach to determine movie recommendations and movie details are displayed as well based on the user search. <br />
+This Movie Recommendation System uses Content-Based filtering approach to determine movie recommendations and details of the movie are displayed based on the user search. <br />
 It is created using Flask web framework and is deployed on Heroku. <br />
 (Preprocessed data enclosed in this github-repo as main_data.csv)
 ### Methodology
