@@ -4,7 +4,7 @@ Project - 1 <br />
 [Live Link](https://ucs757-p1-mrs-101803201.herokuapp.com/) 
 ### Overview
 This Movie Recommendation System uses Content-Based filtering approach to determine movie recommendations and movie details are also displayed based on user search. <br />
-Web scraping is used to get user reviews which are then classified using multinomial Naive Bayes classifier.
+Web scraping is used to get user reviews which are then classified using multinomial Naive Bayes classifier.  <br />
 It is created using Flask web framework and is deployed on Heroku. <br />
 (Preprocessed data enclosed in this github-repo as main_data.csv)
 ### Methodology
