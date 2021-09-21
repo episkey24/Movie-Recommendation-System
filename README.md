@@ -21,11 +21,11 @@ It is created using Flask web framework and is deployed on Heroku. <br />
 - [Tmdb](https://github.com/gajus/tmdb) is used to fetch the attribute information and image data of movies and recommendations accoriding to official IMDB's records.
 - [Heroku](https://github.com/heroku/heroku-buildpack-python) The application is deployed live on Heroku, using gunicorn static-file web server.
 ### Sources for the dataset:
--[IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
--[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
--[List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
--[List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
--[List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+- [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+- [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+- [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+- [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+- [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 ### Install and Run on your Machine:
 - Clone this repository or download the zip file.
 - Install the requirements using: ``` pip install -r requirements.txt ```
