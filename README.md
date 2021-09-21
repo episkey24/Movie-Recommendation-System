@@ -22,7 +22,7 @@ It is created using Flask web framework and is deployed on Heroku. <br />
 - [Heroku](https://github.com/heroku/heroku-buildpack-python) The application is deployed live on Heroku, using gunicorn static-file web server.
 ### Install and Run on your Machine:
 - Clone this repository or download the zip file.
-- Install the requirements using: ''' pip install -r requirements.txt '''
-- To start the app on the localhost move to the respective directory, run the command: ''' python main.py '''
+- Install the requirements using: ``` pip install -r requirements.txt ```
+- To start the app on the localhost move to the respective directory, run the command: ``` python main.py ```
 
 If you want to remake the ML model, you can use the already preprocessed data enclosed in this github-repo as main_data.csv .
