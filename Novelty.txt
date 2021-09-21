@@ -1,5 +1,5 @@
-1. Scikit-Learn's CountVectorizer is used for preperation of the Recommender system. The Cosine similarity parameter is used for finding the closest neigbhours and the top 10 movies with closest similarity score are selected.
-2. Details about the searched movie are displayed to the user using data obtained through AJAX requests passed to the html file.
-3. Web scraping is used to get user reviews for the searched movie from IMDB site using BeautifulSoup and to summarise them multinomial Naive Bayes classifier is used for sentiment analysis providing an accuracy of about 97.47%.
-4. Fully responsive application design is achieved using html and javascript libraries.
-5. The above features are provided to the user at one place, proving to be a handy web app for all movie junkies.
+Scikit-Learn's CountVectorizer is used for preperation of the Recommender system. The Cosine similarity parameter is used for finding the closest neigbhours and the top 10 movies with closest similarity score are selected.
+Details about the searched movie are displayed to the user using data obtained through AJAX requests passed to the html file.
+Web scraping is used to get user reviews from IMDB site using BeautifulSoup and to classify them multinomial Naive Bayes classifier is used for sentiment analysis providing an accuracy of about 97.47%.
+Fully responsive application design is achieved using html and javascript libraries.
+The above features are provided to the user at one place, proving to be a handy web app for all movie junkies.
