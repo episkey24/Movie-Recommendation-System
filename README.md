@@ -14,8 +14,8 @@ It is created using Flask web framework and is deployed on Heroku. <br />
 ![Reviews](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(76).png) <br />
 ![Recommendations](https://github.com/episkey24/Movie-Recommendation-System/blob/main/Screenshots/Screenshot%20(77).png)
 ### Tech Stack
-- [JavaScript](https://github.com/topics/javascript) is used for Frontend.
-- [Flask](https://github.com/pallets/flask) is used in the backend. The API endpoint for getting the recommmendations is setup with cross-site-origin access.
+- [JavaScript](https://github.com/topics/javascript) and [HTML](https://github.com/topics/html) is used at the Frontend.
+- [Flask](https://github.com/pallets/flask) is used at the backend. The API endpoint for getting the recommmendations is setup with cross-site-origin access.
 - [Scikit Learn Count-Vectorizer](https://github.com/scikit-learn/scikit-learn) Scikit-Learn's CountVectorizer is used for preperation of the Recomendeer system. The Cosine similarity parameter is used for finding the closest neigbhours. The top 10 movies with closest similarity score are selected.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) python package is used for web scraping the movie reviews from IMBD and to classify them, sentiment analysis is performed for which [multinomial Naive Bayes classifier](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html) provides an accuracy of about 97.47%.
 - [Tmdb](https://github.com/gajus/tmdb) is used to fetch the attribute information and image data of movies and recommendations accoriding to official IMDB's records.
